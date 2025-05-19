@@ -16,7 +16,7 @@ The dataset used for this project is 'Data Set- Inc5000 Company List_2014.csv', 
    fastest-growing private companies in the U.S. for the year 2014, covering various aspects of company growth and characteristics.
 
 2) Data Analysis & Visualisation:
-   Visualisations were created to present the data insights clearly, including bar graphs, scatter plots, and heatmaps. Key insightss below are provided:
+   Visualisations were created to present the data insights clearly, including bar graphs and tree maps. Key insightss below are provided:
    1. Industry Growth: Identified the industry that experienced the most significant growth, focusing on the Consumer Products and Services sector.
    2. Company Longevity: Analysed trends to determine if companies with longer presence on the list have a higher chance of reappearing.
    3. Workforce Impact: Explored the relationship between the number of employees and the growth rate of companies.
